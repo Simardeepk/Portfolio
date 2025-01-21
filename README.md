@@ -1,1 +1,1 @@
-# Portfolio
+This is my portfolio which is in constant updation. This portfolio consist all about me, and I will update this by adding my projects. For now, this portfolio is made with help of frontend technologies- HTML, CSS and Javascript.
